@@ -302,7 +302,7 @@ section.banner-w3ls,#block {
 	content:'';
 	position:absolute;
 	background-color:#fff;
-	width:210px;
+	width:150px;
 	height:1px;
 	left:0px;
 	top:0px;
@@ -311,7 +311,7 @@ section.banner-w3ls,#block {
 	content:'';
 	position:absolute;
 	background-color:#fff;
-	width:210px;
+	width:150px;
 	height:1px;
 	right:0px;
 	top:0px;
@@ -1494,6 +1494,11 @@ section.footer-w3-agileits p.text-center {
 section.team-w3 h4 {
     font-size: 18px;
 }
+}
+.bus-logo{
+	width:10vw;
+	height:10vh;
+	display:inline-block;
 }
 
 
