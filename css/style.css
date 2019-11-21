@@ -650,7 +650,7 @@ section.map-w3 iframe.googlemaps {
 /*-- contact us --*/
 section.contact-w3-agileits {
 	padding: 100px 0;
-	background: url(../images/contact.jpg) no-repeat;
+	background: url(../images/wedding-couple.jpg) no-repeat;
 	background-position: center;
 	background-attachment: fixed;
 	background-size: 100% 100%;
@@ -1630,8 +1630,8 @@ section.footer-w3-agileits p.text-center a:hover {
 }
 
 @media (max-width: 414px) {
-	
-	
+
+
 	section.banner-w3ls,
 	#block {
 		height: 600px !important;
@@ -1643,7 +1643,7 @@ section.footer-w3-agileits p.text-center a:hover {
 		width: 340px;
 		padding: 15px 25px;
 	}
-	
+
 	.overlay h2 {
 		font-size: 27px;
 		padding-top: 170px;
