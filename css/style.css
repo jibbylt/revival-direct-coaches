@@ -706,7 +706,8 @@ button.btn.btn-outline.btn-lg:hover {
 
 input#name,
 input#email2,
-input#phone {
+input#phone,
+input.input-clear {
 	width: 100%;
 	height: 45px;
 	line-height: 45px;
