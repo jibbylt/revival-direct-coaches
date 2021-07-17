@@ -1961,6 +1961,8 @@ form#quote {
 }
 
 
-
+.display-hidden{
+	display:none
+}
 
 /*-- /responsive design --*/
